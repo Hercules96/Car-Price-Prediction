@@ -1,4 +1,3 @@
-Certainly! Here's a comprehensive README file template for your Car Price Predictor project. This file will provide an overview of your project, instructions for setup, usage details, and more.
 
 ---
 
@@ -115,4 +114,4 @@ For questions or feedback, please reach out to:
 
 ---
 
-Feel free to modify any sections as needed, especially the contact details and license information. This template covers essential aspects of your project and provides clear instructions for users and contributors.
+
